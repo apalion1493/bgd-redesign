@@ -1,0 +1,356 @@
+.separate-container {
+    border: 1px solid #E7F4F7;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.article-text-container__newStyle .separate-container header {
+    border-radius: 5px;
+    padding: 10px 13px;
+    min-height: 78px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 25px;
+}
+
+.separate-container .citizens-israel__answer-content {
+    padding: 0 32px 36px 35px;
+}
+
+.separate-container header p {
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 24px;
+    color: #333333;
+    margin-bottom: 0;
+}
+
+.separate-container .citizens-israel__block-excerpt {
+    background: initial;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 0;
+}
+
+.separate-container header span {
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 24px;
+    color: #4095A9;
+    width: 58px;
+    min-width: 58px;
+    height: 58px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 23px;
+    background: #ffffff;
+    border-radius: 50%;
+}
+
+.separate-container ul>li {
+    margin-bottom: 18px;
+}
+
+.separate-container ul>li:last-child {
+    margin-bottom: 0;
+}
+
+.bg-orange-opacity {
+    background: rgba(239, 133, 91, 0.1);
+    border-radius: 10px;
+    padding: 10px 17px 13px 21px;
+    margin-bottom: 24px;
+}
+
+.citizens-israel__block-excerpt-container {
+    border-bottom: 1px solid #EBEBEB;
+    margin-bottom: 20px;
+    padding-bottom: 14px;
+}
+
+.citizens-israel__block-excerpt-container:last-of-type {
+    border-bottom: none;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.article-text-container__newStyle p,
+.article-text-container__newStyle .citizens-israel__block-excerpt p {
+    font-size: 16px;
+    line-height: 24px;
+    color: #333333;
+}
+
+.article-text-container__newStyle .span-text-bold {
+    font-size: 18px;
+    color: #333;
+    line-height: 24px;
+}
+
+.article-text-container__newStyle ul>li {
+    font-size: 16px;
+    line-height: 24px;
+    color: #333333;
+}
+
+.article-text-container__newStyle .comments-workers__text  p {
+    font-size: 16px;
+    line-height: 24px;
+    color: #333333;
+}
+
+.article-text-container__newStyle .comments-workers__text span {
+    font-size: 18px;
+    line-height: 24px;
+    color: #333333;
+}
+
+ul {
+    list-style: url(ul_dot.png);
+}
+
+.article-text-container__newStyle .comments-workers__text {
+    margin-left: 16px;
+}
+
+.article-text-container__newStyle .comments-workers {
+    padding-right: 26px;
+    padding-left: 13px;
+}
+
+.article-text-container__newStyle .article-section-theSameType__frame {
+    padding-left: 21px;
+    padding-right: 23px;
+}
+
+.article-text-container__newStyle ul {
+    padding-left: 15px;
+}
+
+.article-text-container__newStyle .citizens-israel__block-excerpt > p {
+    padding-left: 0;
+}
+
+.citizens-israel__block-excerpt-container b {
+    font-size: 18px;
+    line-height: 24px;
+    color: #333333;
+}
+
+.citizens-israel__block-excerpt-container table td {
+    font-size: 16px;
+    line-height: 24px;
+    color: #333333;
+}
+
+.citizens-israel__block-excerpt-container table td:first-child {
+    width: 100px;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.flex-column {
+    flex-direction: column;
+}
+
+.grounds-list {
+    display: flex;
+    margin-bottom: 65px;
+    margin-top: 33px;
+}
+
+.article-text-container__newStyle .grounds-list__ul {
+    width: 50%;
+    list-style-type: none;
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-right: 17px;
+}
+
+.article-text-container__newStyle .grounds-list__ul li {
+    margin-bottom: 26px;
+}
+
+.article-text-container__newStyle .grounds-list__ul li:last-of-type {
+    margin-bottom: 0;
+}
+
+.article-text-container__newStyle .grounds-list__ul a {
+    display: flex;
+    align-items: center;
+}
+
+.article-text-container__newStyle .grounds-list__ul a span:first-child {
+    min-width: 35px;
+    margin-right: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-self: flex-start;
+}
+
+.family-group-of-three__icon {
+    background: url("family-group-of-three__icon.svg") no-repeat center;
+    background-size: 100% auto;
+    width: 30px;
+    height: 30px;
+    display: block;
+}
+
+.contract__icon {
+    background: url("contract__icon.svg") no-repeat center;
+    background-size: 100% auto;
+    width: 28px;
+    height: 28px;
+    display: block;
+}
+
+.hospital-buildings__icon {
+    background: url("hospital-buildings__icon.svg") no-repeat center;
+    background-size: 100% auto;
+    width: 33px;
+    height: 33px;
+    display: block;
+}
+
+.return-on-investment__icon {
+    background: url("return-on-investment__icon.svg") no-repeat center;
+    background-size: 100% auto;
+    width: 35px;
+    height: 35px;
+    display: block;
+}
+
+.graduation-hat__icon {
+    background: url("graduation-hat__icon.svg") no-repeat center;
+    background-size: 100% auto;
+    width: 30px;
+    height: 30px;
+    display: block;
+}
+
+.rocking-chair__icon {
+    background: url("rocking-chair__icon.svg") no-repeat center;
+    background-size: 100% auto;
+    width: 24px;
+    height: 28px;
+    display: block;
+}
+
+.store__icon {
+    background: url("store__icon.svg") no-repeat center;
+    background-size: 100% auto;
+    width: 25px;
+    height: 25px;
+    display: block;
+}
+
+.wedding-ring__icon {
+    background: url("wedding-ring__icon.svg") no-repeat center;
+    background-size: 100% auto;
+    width: 24px;
+    height: 24px;
+    display: block;
+}
+
+.article-container .text-default {
+    font-size: 16px;
+    line-height: 24px;
+    color: #333333;
+}
+
+.font-normal {
+    font-weight: normal !important;
+}
+
+.article-text-container__newStyle-title-1.span-text-bold {
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 24px;
+    color: #333333;
+}
+
+.title-24 {
+    font-size: 24px;
+}
+
+.list-item {
+    display: flex;
+    margin-top: 25px;
+}
+
+.list-item__num {
+    background: #2F9AAA;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 42px;
+    min-width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    margin-right: 11px;
+    position: relative;
+    top: -8px;
+}
+
+.list-item__num span {
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 24px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.list-item__content {
+    display: flex;
+    flex-direction: column;
+}
+
+.list-item__content-title {
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    color: #333333;
+    display: block;
+    margin-bottom: 15px;
+}
+
+@media (max-width: 767.98px) {
+    .separate-container .citizens-israel__answer-content {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+}
+
+@media (max-width: 425px) {
+    .comments-workers {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .comments-workers img {
+        margin-right: 0 !important;
+        margin-bottom: 20px;
+    }
+
+    .grounds-list{
+        flex-direction: column;
+    }
+
+    .article-text-container__newStyle .grounds-list__ul {
+        width: 100%;
+        padding-right: 0;
+        margin-bottom: 26px;
+    }
+
+    .article-text-container__newStyle .grounds-list__ul:last-of-type {
+        margin-bottom: 0;
+    }
+}
